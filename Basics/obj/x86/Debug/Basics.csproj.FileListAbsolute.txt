@@ -1,0 +1,5 @@
+/Users/claytoncornett/Desktop/Basics/Basics/bin/Debug/Basics.exe
+/Users/claytoncornett/Desktop/Basics/Basics/bin/Debug/Basics.pdb
+/Users/claytoncornett/Desktop/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/claytoncornett/Desktop/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/claytoncornett/Desktop/Basics/Basics/obj/x86/Debug/Basics.pdb
